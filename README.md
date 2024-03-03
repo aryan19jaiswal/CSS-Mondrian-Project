@@ -1,4 +1,4 @@
-Hello, This is Aryan. This is my second basic project to practice and revise my newly learntCSS concepts.
+Hello, This is Aryan. This is my third basic project to practice and revise my newly learntCSS concepts.
 In this project, I have used some CSS concepts such as Grid, Flexbox.
 Anybody who is currently learning, HTML, CSS and want to practice the concepts, then projects are the best way to do the same.
 
