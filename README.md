@@ -8,5 +8,4 @@ If you want to practice too, then follow the below steps:-
 3. Use Grids and Flexbox to achieve the goal.
 If you were successful in achieving the goal, then congrats otherwise look at my code and solve your doubts and practice again.
 
-NOTE: Do not use Flexbox or Grid concepts, as these were intentionally not done using them.
-And if you find a better way to do the same goal, push it to the repo, but please don't modify original codes and content.
+NOTE:If you find a better way to do the same goal, push youcan push your file to this repository, but please don't modify original codes and content.
